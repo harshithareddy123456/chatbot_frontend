@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* src/App.css */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  margin-right: 10px;
+}
